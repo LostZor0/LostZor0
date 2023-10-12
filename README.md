@@ -33,6 +33,7 @@ Robotics enthusiast and a Geek</h3>
 
 
 [![Dipesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LostZor0)](https://github.com/LostZor0/github-readme-stats)
+![Dipesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LostZor0&show_icons=true&theme=onedark)
 
  
   ![Snake gif](https://github.com/PriFlores/PriFlores/blob/main/github-contribution-grid-snake.svg)
