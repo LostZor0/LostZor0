@@ -31,5 +31,8 @@ Robotics enthusiast and a Geek</h3>
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+
+[![Dipesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LostZor0)](https://github.com/LostZor0/github-readme-stats)
+
  
   ![Snake gif](https://github.com/PriFlores/PriFlores/blob/main/github-contribution-grid-snake.svg)
