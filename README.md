@@ -29,11 +29,11 @@ Robotics enthusiast and a Geek</h3>
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<div display=flex>
+<div style="display:flex;flex-wrap:wrap;justify-content:space-between">
  
-![Dipesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LostZor0&show_icons=true&theme=onedark)
+<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=LostZor0&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="LostZoro's GitHub Stats" />
 
-<img style="position:relative;top:20px" src="https://github-readme-streak-stats.herokuapp.com/?user=LostZor0" alt="LostZor0" />
+<img align="center" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=LostZor0" alt="LostZor0" />
 </div>
  
   ![Snake gif](https://github.com/PriFlores/PriFlores/blob/main/github-contribution-grid-snake.svg)
