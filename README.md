@@ -6,7 +6,6 @@
 Graphics Designer, UI/UX Designer,
 Robotics enthusiast and a Geek</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 📫 How to reach me &nbsp;&nbsp;&nbsp;
   **dipeshbanerjee17@gmail.com**
