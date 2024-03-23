@@ -3,7 +3,7 @@
 
 <h1 align="center">• Hello! , I'm Dipesh Banerjee</h1>
 <h3 align="center">FrontEnd Developer, Programmer, 
-Graphics Designer, UI/UX Designer,
+Graphics Designer,
 Robotics enthusiast and a Geek.</h3>
 
 
